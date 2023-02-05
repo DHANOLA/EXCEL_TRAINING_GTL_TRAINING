@@ -1,6 +1,6 @@
-# EXCEL_TRAINING_GTL
+<h1>EXCEL TRAINING GTL</h1>
 
 <img src="https://bfiinsight.com/wp-content/uploads/2021/11/Excel-Picture.jpeg">
 
 
-These are the Sample tasks I have learned Excel various features during my training phase at the GTL Hyderabad. 
+<h3>These are the Sample tasks on whichI have donw hands-on and  various Excel concepts & features during my training phase at the intern Company - GTL. 
